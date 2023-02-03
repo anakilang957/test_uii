@@ -70,8 +70,8 @@ class App extends Component {
                   <td>{data.email}</td>
                   <td>{data.address.street}</td>
                   <td>{data.address.suite}</td>
-                  <td>{data.address.zipcode}</td>
                   <td>{data.address.city}</td>
+                  <td>{data.address.zipcode}</td>
                   <td>{data.address.geo.lat}</td>
                   <td>{data.address.geo.lng}</td>
                   <td>{data.phone}</td>
